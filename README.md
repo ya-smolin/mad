@@ -1,9 +1,9 @@
-#Project name
+###Project name
 	Barcode reader
-#Description
+###Description
 	App that read information from barcode
-#Team members
-	*Iyaroslav Smolin
-	*Volodymyr Manilo
+###Team members
+	* Iyaroslav Smolin.
+	* Volodymyr Manilo.
 	
 	
